@@ -27,31 +27,3 @@ Experienced in areas like data science, machine learning, web integration and fr
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-## 🔍 Current Focus
-
-- 📊 Analyzing biomanufacturing time series data
-- 📊 Developing heterogeneous graph neural networks for protein function prediction (and for other cool applications as well...)
-- 🧠 Exploring advanced applications of Transformers in biological sequence analysis
-- 🌐 Integrating multi-omics data for comprehensive biological insights
-
-## 🏆 Key Projects
-
-- **PROT2GO HGNN**: A heterogeneous graph neural network for protein function prediction using Gene Ontology annotations
-- **Custom Image Processing**: Developed scripts for plant phenotyping and root analysis
-- **Multi-omics Data Integration**: Built pipelines for integrating various types of biological data
-
-## 🌱 Advancing Agro and Biotech Through Data Science
-
-My work lies at the crucial intersection of data science, agriculture, and biotechnology. I am passionate about harnessing the power of machine learning and bioinformatics to drive innovation in these vital sectors:
-
-- **Crop Improvement**: Utilizing genomic data and machine learning to accelerate crop breeding programs and enhance traits such as yield, disease resistance, and climate adaptability.
-- **Precision Agriculture**: Developing predictive models for optimizing resource use, pest management, and harvest timing based on multi-source data integration.
-- **Biotech Innovations**: Applying graph neural networks and knowledge graphs to uncover novel protein functions and potential targets for biotechnological applications.
-- **Sustainable Solutions**: Leveraging data-driven approaches to support sustainable farming practices and reduce environmental impact in agricultural systems.
-
-I am committed to bridging the gap between cutting-edge data science techniques and real-world agricultural and biotechnological challenges. My goal is to contribute to a more sustainable, efficient, and productive future in these critical domains.
-
-Let's connect and explore how we can push the boundaries of agro and biotech innovation through the power of data!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/cleversonmatiolli)
-- 🧪 [Kaggle](https://www.kaggle.com/cleverds)
