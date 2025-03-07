@@ -2,9 +2,9 @@
 
 ## Data Scientist | Front-End Developer | Machine Learning Expert
 
+<a href="https://orcid.org/0000-0002-4830-6143"><img src="https://www.svgrepo.com/show/331522/orcid.svg" width="24" height="24" alt="Orcid"/></a>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jorge-ms-valente/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/valentejms)
-[![Orcid](https://info.orcid.org/wp-content/uploads/2020/01/orcid-logo.png)](https://orcid.org/0000-0002-4830-6143)
 
 ## Professional Overview
 
